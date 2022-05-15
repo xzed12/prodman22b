@@ -1243,29 +1243,20 @@ a {
   font-weight: 900;
   line-height: 46px;
 }
-.cid-t5KGOudN6H {
-  padding-top: 4rem;
+.cid-t5U611ErtT {
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #f6f6f6;
 }
-.cid-t5KGOudN6H .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-t5KGOudN6H .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-t5KGOudN6H .mbr-section-title {
-  text-align: left;
+.cid-t5U611ErtT .mbr-section-title {
   color: #686868;
+  text-align: left;
   font-size: 44px;
   font-weight: 900;
   line-height: 45px;
+}
+.cid-t5U611ErtT .mbr-section-subtitle {
+  color: #6c7577;
 }
 .cid-t5CEWf1lxc {
   padding-top: 0rem;
@@ -1391,8 +1382,8 @@ a {
   line-height: 45px;
 }
 .cid-t5Re8wOn8v {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-t5Re8wOn8v .mbr-fallback-image.disabled {
@@ -1426,9 +1417,35 @@ a {
 }
 .cid-t5Re8wOn8v .mbr-section-title {
   text-align: left;
+  color: #686868;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 45px;
+}
+.cid-t5Re8wOn8v .card-title,
+.cid-t5Re8wOn8v .iconfont-wrapper {
+  color: #686868;
+}
+.cid-t5Re8wOn8v .card-text {
+  color: #686868;
+}
+.cid-t5U6WrAIwo {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #0078b6;
+}
+.cid-t5U6WrAIwo .mbr-section-title {
+  color: #fafafa;
+  text-align: left;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 45px;
+}
+.cid-t5U6WrAIwo .mbr-section-subtitle {
+  color: #6c7577;
 }
 .cid-t5EGnXZVDv {
-  padding-top: 3rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #0078b6;
 }
@@ -1561,6 +1578,21 @@ a {
   -webkit-touch-callout: none;
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
+}
+.cid-t5U8bDlYOJ {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #f6f6f6;
+}
+.cid-t5U8bDlYOJ .mbr-section-title {
+  color: #686868;
+  text-align: left;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 45px;
+}
+.cid-t5U8bDlYOJ .mbr-section-subtitle {
+  color: #6c7577;
 }
 .cid-t5CBILqkTS {
   padding-top: 0rem;
